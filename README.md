@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @4lxprime
 - 👀 I’m interested in the cybersecurity
-- 🌱 I’m currently learning python and java
+- 🌱 I’m currently learning javascript
 
 <!---
 4lxprime/4lxprime is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
