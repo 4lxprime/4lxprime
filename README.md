@@ -18,3 +18,4 @@
 <a href="https://twitter.com/4lxprime" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="4lxprime" height="30" width="40" /></a>
 <a href="https://discord.gg/https://discord.gg/Ae4C2XbDWM" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/Ae4C2XbDWM" height="30" width="40" /></a>
 </p>
+uses: Platane/snk/svg-only@v2.0.0-rc.1
