@@ -19,4 +19,4 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=4lxprime&show_icons=true&locale=en&layout=compact" alt="4lxprime" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=4lxprime&" alt="4lxprime" /></p>
-[4lxprime GitHub stats](https://github-readme-stats.vercel.app/api?username=4lxprime&show_icons=true&theme=radical)
+![4lxprime GitHub stats](https://github-readme-stats.vercel.app/api?username=4lxprime&show_icons=true&theme=radical)
