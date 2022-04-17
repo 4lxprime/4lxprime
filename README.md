@@ -19,3 +19,4 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=4lxprime&show_icons=true&locale=en&layout=compact&theme=radical" alt="4lxprime" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=4lxprime&theme=radical" alt="4lxprime" /></p>
 <p><img src="https://github-readme-stats.vercel.app/api?username=4lxprime&show_icons=true&theme=radical"></p>
+<p><img src="https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)](https://github.com/anuraghazra/github-readme-stats"></p>
