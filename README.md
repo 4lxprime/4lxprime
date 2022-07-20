@@ -2,7 +2,7 @@
 <h3 align="center">A passionate developer</h3>
 
 - 🔭 I’m currently working on **N0T4G3T**
-- 🌱 I’m currently learning **js, C, php**
+- 🌱 I’m currently learning **js, php**
 - 📫 How to reach me **4lxprime#2237**
 
 <h3 align="center">My stats</h3>
@@ -18,6 +18,4 @@
 <a href="https://twitter.com/4lxprime" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="4lxprime" height="30" width="40" /></a>
 <a href="https://discord.gg/https://discord.gg/Ae4C2XbDWM" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/Ae4C2XbDWM" height="30" width="40" /></a>
 </p>
-- name: generate-snake-game-from-github-contribution-grid
-  uses: Platane/snk@v2.0.0-rc.2
 
