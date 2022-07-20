@@ -5,6 +5,7 @@
 - my discord: **4lxprime#2237**
 
 <h3 align="center">Some stats: </h3>
+<center>
 <p><img href="https://github.com/4lxprime" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=4lxprime&show_icons=true&locale=en&layout=compact&theme=cobalt" alt="4lxprime" /></p>
 <p><img href="https://github.com/4lxprime" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=4lxprime&theme=cobalt" alt="4lxprime" /></p>
 <p><img href="https://github.com/4lxprime" align="center" src="https://github-readme-stats.vercel.app/api?username=4lxprime&show_icons=true&theme=cobalt"></p>
@@ -17,4 +18,5 @@
 <a href="https://twitter.com/4lxprime" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="4lxprime" height="30" width="40" /></a>
 <a href="https://discord.gg/https://discord.gg/Ae4C2XbDWM" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/Ae4C2XbDWM" height="30" width="40" /></a>
 </p>
+</center>
 
