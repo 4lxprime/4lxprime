@@ -1,5 +1,4 @@
-<h1 align="center">Hi 👋, I'm 4lxprime</h1>
-<h3 align="center">A passionate developer</h3>
+<h1 align="center">4lxprime</h1>
 
 - 🔭 I’m currently working on **N0T4G3T**
 - 🌱 I’m currently learning **js, php**
