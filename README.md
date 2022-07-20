@@ -1,8 +1,8 @@
 <h1 align="center">4lxprime</h1>
 
-- 🔭 I’m currently working on **N0T4G3T**
-- 🌱 I’m currently learning **js, php**
-- 📫 How to reach me **4lxprime#2237**
+- currently working on: **N0T4G3T**
+- currently learning: **js, php**
+- my discord: **4lxprime#2237**
 
 <h3 align="center">Some stats: </h3>
 <p><img href="https://github.com/4lxprime" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=4lxprime&show_icons=true&locale=en&layout=compact&theme=cobalt" alt="4lxprime" /></p>
