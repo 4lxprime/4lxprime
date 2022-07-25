@@ -1,6 +1,6 @@
 <h1 align="center">4lxprime</h1>
 
-- currently working on: **N0T4G3T**
+- currently working on: **B0T4N3T**
 - currently learning: **js, php**
 - my discord: **4lxprime#2237**
 
