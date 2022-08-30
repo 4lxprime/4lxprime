@@ -2,7 +2,7 @@
 
 - currently working on: **B0T4N3T**
 - currently learning: **js, php**
-- my discord: **4lxprime#2237**
+- my discord: **4lxprime#3296**
 
 <h3 align="center">Some stats: </h3>
 <center>
