@@ -1,5 +1,5 @@
 # 💫 About Me:
-Working on **B.R.I.S.K. Protocol**
+I'm French and I work on the **B.R.I.S.K. Protocol**
 
 
 ## 🌐 Socials:
