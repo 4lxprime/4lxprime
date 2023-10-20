@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm French and I work on the **B.R.I.S.K. Protocol**
+I'm French and I work on the **B.R.I.S.K. Protocol**, if you want to see more about me you can go [here](https://primenotes.vercel.app/author/4lxprime)
 
 
 ## 🌐 Socials:
