@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm French and I work at [@hugoappfr](https://github.com/hugoappfr), if you want to see more about me you can go [here](https://primenotes.vercel.app/author/4lxprime)
+I'm French and I work at [@hugoappfr](https://github.com/ProtoGear), if you want to see more about me you can go [here](https://primenotes.vercel.app/author/4lxprime)
 
 
 ## 🌐 Contact:
